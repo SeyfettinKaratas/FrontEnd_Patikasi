@@ -1,0 +1,22 @@
+
+h2{
+    color:red;
+}
+h3{
+    color:purple;
+}
+h4{
+    color:rgb(188, 190, 61)
+}
+.product {
+   list-style: none;
+   
+}
+.products{
+    width: 400px;
+    margin: auto;
+
+}
+.head{
+    text-align: center;   
+}
