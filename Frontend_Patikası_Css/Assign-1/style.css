@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.google{
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.container{  
+    width: 90%;     
+    text-align: center;
+    margin:0 auto;
+    background-color: rgb(238, 238, 238);
+}
+.search{
+    margin:0px auto;
+    padding: 2 px;
+
+
+}
+.content{
+    width: 90%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+    padding: 5px;
+    display: flex;
+}
+.box{   
+    margin: 0 1px;
+   height: 76px;
+   padding: 5px 0;
+
+}
+.box-font{
+    font-size: 13px;
+}
+.bg-1{
+    background-color: rgb(126, 229, 218);
+}
+.bg-2{
+    background-color: rgb(112, 204, 194);
+}
+.bg-3{
+    background-color: #62B3AA;
+}
+.footer{
+    clear: both;
+    text-align: center;
+}
