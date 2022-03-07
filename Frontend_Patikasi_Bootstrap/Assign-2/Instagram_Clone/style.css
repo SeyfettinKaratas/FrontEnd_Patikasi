@@ -1,0 +1,90 @@
+.photo {
+    border: 1px solid  ;
+    border-style: none;
+    border-radius: 50%;
+    width:74px;
+    height: 74px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    display: flex;
+    flex-direction: column;
+}
+.photo p {
+    margin-top: 78px;
+    font-size: 12px;
+    max-width: 74px;
+}
+.xyz::-webkit-scrollbar{
+    display: none;
+}
+.photo a img{
+    width: 66px;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   
+ 
+}
+.images-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 4px;    
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.post {
+    display: flex;
+    flex-direction: column;
+}
+.user {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.users-info {
+    display: flex;
+    flex-direction: column;
+    line-height: 6px;
+    margin-top: 2px;
+}
+.users-info p {
+    font-size: 13px;
+}
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+.left-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.recommended {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.folowers{
+    display: flex;
+    flex-direction: column;
+}
+.follower{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
